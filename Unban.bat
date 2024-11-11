@@ -1,9 +1,9 @@
 @echo off
 
-title Enigma Perm (#carters-channel)
-echo Legit the equivalant to any permanent spoofer on the market.
-echo Made by realfed38 and or ace
-echo discord.gg/enigmacheats
+title venum perm Perm 
+echo best perm on the market
+echo Made venum services
+echo https://discord.gg/AmkFC5xkyu
 
 net session >nul 2>&1
 if %errorlevel% neq 0 (
